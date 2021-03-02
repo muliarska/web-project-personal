@@ -195,8 +195,9 @@ ul li h2 {
 	border-radius: 200px;
 }
 
-.text-right {
+.text-near {
 	width: calc(60% - 4px);
+	color: #616368;
 	display: inline-block;
 }
 
